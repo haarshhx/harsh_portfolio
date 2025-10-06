@@ -42,7 +42,7 @@ export const Hero = () => {
 
           <Link href="#about" className="md:mt-10">
             <MagicButton
-              title="Show my work"
+              title="Next section"
               icon={<FaLocationArrow />}
               position="right"
               asChild

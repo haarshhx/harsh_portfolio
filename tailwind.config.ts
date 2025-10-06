@@ -1,4 +1,7 @@
-import encode  from "mini-svg-data-uri";
+import encode from "mini-svg-data-uri";
+
+
+
 import type { Config } from "tailwindcss";
 import { default as flattenColorPalette } from "tailwindcss/lib/util/flattenColorPalette";
 

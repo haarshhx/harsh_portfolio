@@ -1,6 +1,5 @@
 import { Approach } from "@/components/approach";
-import { Clients } from "@/components/clients";
-import { Experience } from "@/components/experience";
+import { HoverMouseSection } from "@/components/HoverMouseSection";
 import { Footer } from "@/components/footer";
 import { Grid } from "@/components/grid";
 import { Hero } from "@/components/hero";
@@ -17,8 +16,7 @@ const MainPage = () => {
         <Hero />
         <Grid />
         <RecentProjects />
-        <Clients />
-        <Experience />
+        <HoverMouseSection />
         <Approach />
         <Footer />
       </div>
